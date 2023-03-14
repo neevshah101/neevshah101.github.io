@@ -1,5 +1,5 @@
 ---
-layout: blankpage
+layout: page
 permalink: /IISER/
 title: IISER
 header: Stuff I've done at IISER Pune
