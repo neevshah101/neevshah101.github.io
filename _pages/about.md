@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>_Earth_</p>
+    _Earth_
 
 
 news: false  # includes a list of news items
