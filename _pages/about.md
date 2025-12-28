@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Neev!"
+title: "Hi, I'm Neev!"
 author_profile: true
 redirect_from: 
   - /about/
