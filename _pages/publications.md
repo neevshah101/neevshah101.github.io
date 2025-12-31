@@ -7,7 +7,6 @@ author_profile: true
 
 You can also find my articles on [ADS](https://ui.adsabs.harvard.edu/public-libraries/9EwD-zomQNSZSOGsAMyd0A)
 
-======
 5) K. Sen, M. Renzo, H. Jin, N. Langer, A. Schootemeijer, J. I. Villaseñor, L. Mahy, A. Grichener, **N. Shah**, C. Wang, X.-T. Xu
 *Interacting binaries on the Main Sequence as in-situ tracers of mass transfer efficiency and stability*
 (submitted to AAS) [arXiv:2511.15347](https://arxiv.org/abs/2511.15347)
