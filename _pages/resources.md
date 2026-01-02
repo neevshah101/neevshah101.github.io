@@ -7,6 +7,20 @@ author_profile: true
 
 This space is to collect resources that I find useful. I will keep updating it from time to time.
 
+Science Blogs
+====
+1) [Astrobites](https://astrobites.org/)
+
+2) [Quanta](https://www.quantamagazine.org/)
+
+3) [AAS Nova](https://aasnova.org/)
+
+Jobs
+=====
+1) [Floor Broekgaarden's website](https://www.broekgaarden.nl/floor/wordpress/eca-resources-applying-for-phd-postdoc-faculty-and-more/) (contains links to many useful resources)
+
+2) [AstroBetter](https://www.astrobetter.com/)
+
 NASA FINESST
 ======
 1) [Official Website](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BF9C7B701-6405-FD55-6705-EB4B190646B8) (is it happening in 2026? no clue)
@@ -27,10 +41,11 @@ Books, Lecture Notes, Reviews
 
 3) [Stellar Evolution - Mathieu Renzo's lecture notes](https://www.as.arizona.edu/~mrenzo/teaching.html)
 
+4) [Encyclopedia of Astrophysics](https://arxiv.org/search/?query=Encyclopedia+of+Astrophysics&searchtype=all&source=header) - a collection of reviews on many topics
+
 Conference/Program Videos
 ======
 
-**KITP Programs and Conferences**
 1) [KITP Program: Stellar-Mass Black Holes at the Nexus of Optical, X-ray, and Gravitational Wave Surveys](https://online.kitp.ucsb.edu/online/stellarbh25/)
 
 2) [KITP Conference: The Lifecycle of Stellar Black Holes](https://online.kitp.ucsb.edu/online/stellarbh-c25/)
@@ -65,4 +80,6 @@ Miscellaneous
 1) [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org/abs/2312.04041)
 
 2) [International Astronomy Meetings](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - maintained by CDAC
+
+3) [Picture an Astronomer](https://arxiv.org/abs/2512.24465v1) (White Paper)
 
