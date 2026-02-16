@@ -19,6 +19,11 @@ Education
 
 Publications and Preprints
 ======
+
+6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
+*Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary*
+(submitted to ApJ) [arXiv:2602.12327](https://arxiv.org/abs/2602.12327), Reproducibility package for output data and scripts for the figures - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18615967.svg)](https://doi.org/10.5281/zenodo.18615967)
+
 5) K. Sen, M. Renzo, H. Jin, N. Langer, A. Schootemeijer, J. I. Villaseñor, L. Mahy, A. Grichener, **N. Shah**, C. Wang, X.-T. Xu
 *Interacting binaries on the Main Sequence as in-situ tracers of mass transfer efficiency and stability*
 (submitted to AAS) [arXiv:2511.15347](https://arxiv.org/abs/2511.15347)
