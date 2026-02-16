@@ -9,7 +9,7 @@ You can also find my articles on [ADS](https://ui.adsabs.harvard.edu/public-libr
 
 6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
 *Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary*
-(submitted to ApJ) [arXiv:2602.12327](https://arxiv.org/abs/2602.12327)
+(submitted to ApJ) [arXiv:2602.12327](https://arxiv.org/abs/2602.12327), Reproducibility package for output data and scripts for the figures - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18615967.svg)](https://doi.org/10.5281/zenodo.18615967)
 
 5) K. Sen, M. Renzo, H. Jin, N. Langer, A. Schootemeijer, J. I. Villaseñor, L. Mahy, A. Grichener, **N. Shah**, C. Wang, X.-T. Xu\
 *Interacting binaries on the Main Sequence as in-situ tracers of mass transfer efficiency and stability*
