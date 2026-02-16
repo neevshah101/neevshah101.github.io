@@ -15,6 +15,8 @@ Science Blogs
 
 3) [AAS Nova](https://aasnova.org/)
 
+4) [David Hogg's Research Blog](https://hoggresearch.blogspot.com/) (Maybe I will do something like this one day?)
+
 Jobs
 =====
 1) [Floor Broekgaarden's website](https://www.broekgaarden.nl/floor/wordpress/eca-resources-applying-for-phd-postdoc-faculty-and-more/) (contains links to many useful resources)
@@ -42,6 +44,8 @@ Books, Lecture Notes, Reviews
 3) [Stellar Evolution - Mathieu Renzo's lecture notes](https://www.as.arizona.edu/~mrenzo/teaching.html)
 
 4) [Encyclopedia of Astrophysics](https://arxiv.org/search/?query=Encyclopedia+of+Astrophysics&searchtype=all&source=header) - a collection of reviews on many topics
+
+5) [Writing Across the Space Sciences](https://github.com/gurtina/ASTR578_Spring2026) - An elective course taught by Gurtina Besla at the University of Arizona
 
 Conference/Program Videos
 ======
@@ -82,4 +86,8 @@ Miscellaneous
 2) [International Astronomy Meetings](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - maintained by CDAC
 
 3) [Picture an Astronomer](https://arxiv.org/abs/2512.24465v1) (White Paper)
+
+4) [How to Write a 5 Minute Talk](https://www.discovermagazine.com/unsolicited-advice-xi-how-to-write-a-5-minute-talk-25917) by Julianne Dalcanton, especially relevant for the impossible 5min talks at AAS!
+
+5) [Why do we do Astorphysics?](https://arxiv.org/abs/2602.10181) by David Hogg (an excellent read!)
 

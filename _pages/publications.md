@@ -7,9 +7,13 @@ author_profile: true
 
 You can also find my articles on [ADS](https://ui.adsabs.harvard.edu/public-libraries/9EwD-zomQNSZSOGsAMyd0A)
 
+6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
+*Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary*
+(submitted to ApJ) [arXiv:2602.12327](https://arxiv.org/abs/2602.12327)
+
 5) K. Sen, M. Renzo, H. Jin, N. Langer, A. Schootemeijer, J. I. Villaseñor, L. Mahy, A. Grichener, **N. Shah**, C. Wang, X.-T. Xu\
 *Interacting binaries on the Main Sequence as in-situ tracers of mass transfer efficiency and stability*
-(submitted to AAS) [arXiv:2511.15347](https://arxiv.org/abs/2511.15347)
+(accepted in ApJ) [arXiv:2511.15347](https://arxiv.org/abs/2511.15347)
 
 4) C. A. Burt, M. Renzo, A. Grichener, **N. Shah**\
 *On the prevalence of early mass transfer for very massive binaries*
