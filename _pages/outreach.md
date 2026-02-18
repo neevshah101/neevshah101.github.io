@@ -9,6 +9,10 @@ Astrobites
 ======
 I have been an author for Astrobites since January 2024. I am also a member of their DEI committee. I have had the pleasure of writing a bunch of articles that I have listed below
 
+8) [*Meet the AAS Keynote Speakers: Dr Maya Fishbach*](https://astrobites.org/2026/01/07/meet-the-aas-keynote-speakers-dr-maya-fishbach/)
+
+7) [*Meet the AAS Keynote Speakers: Dr Priyamvada Natarajan*](https://astrobites.org/2026/01/06/meet-the-aas-keynote-speakers-dr-priyamvada-natarajan/)
+
 6) [*Spinning into the merging binary black hole family tree*](https://astrobites.org/2025/11/21/gw-hierarchical-merger/)
 
 5) [*Keep your ν-eyes open: Messengers from a Common Envelope*](https://astrobites.org/2025/06/28/neutrino-common-envelope/)
