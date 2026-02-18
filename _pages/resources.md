@@ -78,6 +78,11 @@ Summer Schools, Workshops
 
 3) [2025 Posydon Summer School](https://github.com/POSYDON-code/POSYDON-2025-School-Labs)
 
+Courses
+=====
+
+1) [Radiative Transfer and Radiative Processes in Astrophysics](https://youtube.com/playlist?list=PLQwcBRqZUpofzn2QSUsw0oFqgwJ_DGRj9&si=Q2aTue6EGZnTlR8W) - Jon Sundquist (excellent lecture videos!)
+
 Miscellaneous
 ====
 
@@ -89,5 +94,5 @@ Miscellaneous
 
 4) [How to Write a 5 Minute Talk](https://www.discovermagazine.com/unsolicited-advice-xi-how-to-write-a-5-minute-talk-25917) by Julianne Dalcanton, especially relevant for the impossible 5min talks at AAS!
 
-5) [Why do we do Astorphysics?](https://arxiv.org/abs/2602.10181) by David Hogg (an excellent read!)
+5) [Why do we do Astrophysics?](https://arxiv.org/abs/2602.10181) by David Hogg (an excellent read!)
 
