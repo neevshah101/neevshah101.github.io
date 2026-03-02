@@ -62,8 +62,10 @@ Membership
 * 2024 - now: American Astronomical Society
 * 2022 - 2023: LIGO Scientific Collaboration
 
-Talks, Posters, Presentations
+Talks, Posters
 ======
+
+* March 2026 - GW Journal Club, UC San Diego (Invited Talk)
 * Feb 2026 - TAP "Meet Yourself Event", The University of Arizona (Talk)
 * Jan 2026 - AAS 247, Phoenix (Talk)
 * Dec 2025 - Big Boom Meeting, The University of Arizona (Talk)
@@ -101,15 +103,17 @@ Schools, Workshops
 * 2021 - GW Open Data Workshop
 * 2021 - Code/Astro Workshop
 
-Service, Outreach
+Outreach
 ======
 * Jan 2026 - Present: Space Drafts (Tucson's version of Astronomy on Tap) - Organizer
-* Jan 2025 - Present: Astrobites - Author and DEI Committee Member
-* May 2025 - Present: Steward Observatory Graduate Council - Member
-* Aug 2025 - Present: Steward Observatory Science Coffee - Organizer
-* October 2025: Steward Observatory Symposium (Volunteer)
-* March 2025: Steward Observatory Symposium (Volunteer)
-* October 2024: Steward Observatory Symposium (Volunteer)
+* Jan 2025 - Present: Astrobites - Author
 * 2020 - 2021: Astronomy Club of IISER Pune - Club Coordinator
 * 2020 - 2021: Mimamsa - Science Outreach Head
 
+Professional Service
+======
+* Referee for Nature Astronomy
+* December 2026 - Present: Astrobites - DEI Committee Member
+* May 2025 - Present: Steward Observatory Graduate Council - Member
+* Aug 2025 - Present: Steward Observatory Science Coffee - Organizer
+* Steward Observatory Symposium (Volunteer) - October 2024, March 2025, October 2025, March 2026
