@@ -65,6 +65,7 @@ Membership
 Talks, Posters
 ======
 
+* March 2026 - Steward Observatory Symposium (Talk)
 * March 2026 - GW Journal Club, UC San Diego (Invited Talk)
 * Feb 2026 - TAP "Meet Yourself Event", The University of Arizona (Talk)
 * Jan 2026 - AAS 247, Phoenix (Talk)
