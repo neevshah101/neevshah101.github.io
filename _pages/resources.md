@@ -17,6 +17,8 @@ Science Blogs
 
 4) [David Hogg's Research Blog](https://hoggresearch.blogspot.com/) (Maybe I will do something like this one day?)
 
+5) [Alex Ji's Research Blog](https://alexji.com/2026/02/01/the-monthly-list-of-papers-alex-likes.html) (Cool idea, might try this)
+
 Jobs
 =====
 1) [Floor Broekgaarden's website](https://www.broekgaarden.nl/floor/wordpress/eca-resources-applying-for-phd-postdoc-faculty-and-more/) (contains links to many useful resources)
