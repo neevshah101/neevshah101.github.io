@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40">](Neev_Shah.pdf)
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40">](/files/Neev_Shah.pdf)
 
 Education
 ======
