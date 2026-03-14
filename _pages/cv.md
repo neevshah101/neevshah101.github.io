@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40">](files/Neev_Shah.pdf)
+
 Education
 ======
 * Ph.D in Astronomy and Astrophysics, The University of Arizona, 2029 (expected)
@@ -64,31 +66,28 @@ Membership
 Talks, Posters
 ======
 
+* May 2026 - NOIRLab Flash Talk
 * March 2026 - Steward Observatory Symposium (Talk)
-* March 2026 - GW Journal Club, UC San Diego (Invited Talk)
+* March 2026 - Gravitational Wave Journal Club, UC San Diego (Invited Talk)
 * Feb 2026 - TAP "Meet Yourself Event", The University of Arizona (Talk)
 * Jan 2026 - AAS 247, Phoenix (Talk)
 * Dec 2025 - Big Boom Meeting, The University of Arizona (Talk)
 * Nov 2025 - KITP Conference on "The Lifecycle of Stellar Black Holes" (Talk)
-* Nov 2025 - Bin Boom Meeting, The University of Arizona (Talk)
 * September 2025 - IAU Massive Stars Symposium, Ensenada, Mexico (Poster)
 * Nov 2024 - Steward Observatory Symposium (Talk)
 * Oct 2024 - Big Boom Meeting, The University of Arizona (Talk)
-* Oct 2024 - Bin Boom Meeting, The University of Arizona (Talk)
-* May 2024 - MS Defense, IISER Pune (Talk)
 * Feb 2024 - 42nd Meeting of the Astronomical Society of India, Bengaluru (Poster)
 * Dec 2023 - International Conference on Gravitation and Cosmology, Guwahati, India (Talk)
 * Dec 2023 - International Conference on Gravitation and Cosmology, Guwahati, India (Poster)
-* Aug 2023 - Astromatic Hackathon, Ciela Institute, Montreal (Talk)
 * Jun 2023 - IISER Pune - IUCAA Cosmology Group Meeting (Talk)
 * Apr 2023 - LIGO Detector Characterization Group (Talk)
-* Sept 2022 - LVK Fall Meeting (Poster)
+* Sept 2022 - LIGO-Virgo-KAGRA Fall Meeting (Poster)
 * Aug 2022 - UBC LIGO Group (Talk)
 
 Software, Technical Skills
 ======
 * Programming Langauges - Python, Fortran
-* Software - MESA
+* Software - MESA, COSMIC
 * Tools - Git, GitHub, HPC, Condor, SLURM
 
 Schools, Workshops
@@ -116,4 +115,4 @@ Professional Service
 * December 2026 - Present: Astrobites - DEI Committee Member
 * May 2025 - Present: Steward Observatory Graduate Council - Member
 * Aug 2025 - Present: Steward Observatory Science Coffee - Organizer
-* Steward Observatory Symposium (Volunteer) - October 2024, March 2025, October 2025, March 2026
+* Steward Observatory Symposium (organizer) - October 2024, March 2025, October 2025, March 2026
