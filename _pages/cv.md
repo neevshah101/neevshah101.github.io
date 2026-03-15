@@ -90,6 +90,10 @@ Software, Technical Skills
 * Software - MESA, COSMIC
 * Tools - Git, GitHub, HPC, Condor, SLURM
 
+Observing Experience
+=====
+* 2.1m Bok Telescope, B&C (Spectrocopy) - 3 nights
+
 Schools, Workshops
 ======
 * Sept 2025 - Posydon Summer School, SkAI Institute, Chicago
