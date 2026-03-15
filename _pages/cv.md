@@ -92,7 +92,7 @@ Software, Technical Skills
 
 Observing Experience
 =====
-* 2.1m Bok Telescope, B&C (Spectrocopy) - 3 nights
+* Bok 90" Telescope, B&C (Spectrocopy) - 3 nights
 
 Schools, Workshops
 ======
