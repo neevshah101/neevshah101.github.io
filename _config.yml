@@ -23,7 +23,7 @@ repository               : "neevshah101/neevshah101.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-neev.png"
   name             : "Neev Shah"
   pronouns         : # example: "she/her"  
   bio              : "Astronomy and Astrophysics PhD student at The University of Arizona"
