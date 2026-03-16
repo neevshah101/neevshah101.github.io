@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [ADS](https://ui.adsabs.harvard.edu/public-libraries/9EwD-zomQNSZSOGsAMyd0A)
-
 You can also find my articles on 
 <a href="https://scixplorer.org/public-libraries/9EwD-zomQNSZSOGsAMyd0A">
-  <img src="/images/scix.jpg" alt="SciX" width="40">
+  <img src="/images/scix.jpg" alt="SciX" width="40" height = "30">
 </a>
 
 6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
