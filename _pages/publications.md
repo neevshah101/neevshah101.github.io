@@ -7,6 +7,11 @@ author_profile: true
 
 You can also find my articles on [ADS](https://ui.adsabs.harvard.edu/public-libraries/9EwD-zomQNSZSOGsAMyd0A)
 
+You can also find my articles on 
+<a href="https://scixplorer.org/public-libraries/9EwD-zomQNSZSOGsAMyd0A">
+  <img src="/images/scix.jpg" alt="SciX" width="80">
+</a>
+
 6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
 *Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary*
 (submitted to ApJ) [arXiv:2602.12327](https://arxiv.org/abs/2602.12327), Reproducibility package for output data and scripts for the figures - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18615967.svg)](https://doi.org/10.5281/zenodo.18615967)
