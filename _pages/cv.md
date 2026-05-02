@@ -47,6 +47,7 @@ Publications and Preprints
 
 Grants, Honors, Awards
 ======
+* 2026 - TAP Travel Grant (1000$) - IAC Winter School, Canary Islands, Spain
 * 2025 - TAP Travel Grant (1000$) - Conference at KITP, UCSB
 * 2025 - Posydon Summer School Travel Grant (1000$)
 * 2025 - IAU Travel Grant (500€) - IAU Massive Stars Symposium in Ensenada, Mexico
