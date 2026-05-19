@@ -67,6 +67,7 @@ Membership
 Talks, Posters
 ======
 
+* May 2026 - ASU Spring 2026 Workshop on Multimessenger Astronomy (Talk)
 * May 2026 - NOIRLab Flash Talk
 * March 2026 - Steward Observatory Symposium (Talk)
 * March 2026 - Gravitational Wave Journal Club, UC San Diego (Invited Talk)
@@ -109,6 +110,7 @@ Schools, Workshops
 
 Outreach
 ======
+* May 2026: Adult Astronomy Camp (Staff)
 * Jan 2026 - Present: Space Drafts (Tucson's version of Astronomy on Tap) - Organizer
 * Jan 2025 - Present: Astrobites - Author
 * 2020 - 2021: Astronomy Club of IISER Pune - Club Coordinator

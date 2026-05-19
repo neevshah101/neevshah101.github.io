@@ -27,6 +27,10 @@ I have been an author for Astrobites since January 2025. I am also a member of t
 
 1) [*Too big to fit? Recipes on how (not) to create the black hole binary that you find in your backyard*](https://astrobites.org/2025/02/17/gaia-bh3-formation/)
 
+Astronomy Camp
+======
+Add description and link
+
 Space Drafts (Tucson's flavor of Astronomy on Tap)
 ======
 Since, January 2026, I am one of the organizers of Space Drafts. We hold talks every month on a Wednesday at Zerais International Bar.
