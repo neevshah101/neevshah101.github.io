@@ -98,6 +98,7 @@ Observing Experience
 
 Schools, Workshops
 ======
+* May 2026 - *COSMIC* Development Workshop, CCA, Flatiron Institute
 * Sept 2025 - Posydon Summer School, SkAI Institute, Chicago
 * July 2025 - MESA Summer School, KU Leuven, Belgium
 * Feb 2025 - Science Communication Workshop, Steward Observatory
