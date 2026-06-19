@@ -9,6 +9,8 @@ Astrobites
 ======
 I have been an author for Astrobites since January 2025. I am also a member of their DEI committee. I have had the pleasure of writing a bunch of articles that I have listed below
 
+10) [*Black Space Week 2026: Interview with Dr. Nola Haynes (Interview)*](https://astrobites.org/2026/06/19/nola-haynes-interview/)
+
 9) [*Found in our own Backyard: A Child of the First Stars?*](https://astrobites.org/2026/03/26/child-of-first-stars/)
 
 8) [*Meet the AAS Keynote Speakers: Dr Maya Fishbach*](https://astrobites.org/2026/01/07/meet-the-aas-keynote-speakers-dr-maya-fishbach/)
