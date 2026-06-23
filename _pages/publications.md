@@ -12,7 +12,7 @@ You can also find my articles on
 
 7) M. Renzo , O. Gottlieb , H. S. Chan , J. Goldberg , A. Grichener , K. Sen , **N. Shah**, E. K. Farag , M. Cantiello
 *A grid of fast-rotating, chemically-homogeneous, supernova and/or long-GRB progenitors*
-(submitted to ApJ) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18615967.svg)](https://zenodo.org/records/14286306)
+(submitted to ApJ) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14286306.svg)](https://zenodo.org/records/14286306)
 
 6) **N. Shah**, M. Renzo, K. Sen, A. Grichener, K. Breivik
 *Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary*
