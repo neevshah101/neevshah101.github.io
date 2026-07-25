@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Astronomy and Astrophysics, The University of Arizona, 2029 (expected)
   - advisor: Mathieu Renzo
-* B.S., M.S., Indian Institute of Science Education and Research, Pune, 2019
+* B.S., M.S., Indian Institute of Science Education and Research, Pune, 2024
   - advisor: Parameswaran Ajith, Susmita Adhikari
 
 Publications and Preprints
